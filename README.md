@@ -1,4 +1,9 @@
 ### Hi there 👋
+👀 Open source contributor
+👾 Kubernetes, .NET Core and Next.js
+👑 HotChocolate, MassTransit and Quartz
+🤝 Always open for cooperation
+❤️ Cats 😸, whales 🐳 and guitars 🎸
 
 <!--
 **Faisal282/Faisal282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
