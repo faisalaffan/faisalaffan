@@ -7,7 +7,7 @@
 - 👀 Open source contributor
 - 👾 Go, Kubernetes and Nuxt.js
 - 🤝 Always open for cooperation
-- ❤️ God, Animal & You 😂
+- ❤️ God, Animal & Client
 
 <br>
 
