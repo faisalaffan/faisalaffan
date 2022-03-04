@@ -4,10 +4,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Faisal282&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
-- 👀 Open source contributor
-- 👾 Go, Kubernetes and Nuxt.js
-- 🤝 Always open for cooperation
-- ❤️ God, Animal & Client
+
+- 👨🏻‍💻 Software Engineer 
+- 👷🏻‍♂️ Software Architect
+- ✨ Active At Programming Community In Telegram, Udemy, Hackernoon, Stackoverflow etc
+- 🤝 Open Source Contributor
+- ❤️ UX Enthusiast
+- 👾 Often Make Many Template / App at Spare Time
 
 <br>
 
@@ -23,17 +26,14 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 -->
 <!-- <img width="100%" src="https://i.postimg.cc/SQCgGbMt/github-banner.png"/> -->
 
-[![Dev.to](https://img.shields.io/badge/-dev&#46;to-0A0A0A?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/brennan)](https://dev.to/brennan)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/bkennethbrown/)](https://linkedin.com/in/bkennethbrown/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@brennanbrown)
-[![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://wandernotebook.com)](https://wandernotebook.com)
-[![Glitch](https://img.shields.io/badge/-Glitch-3333FF?style=flat&labelColor=3333FF&logo=glitch&logoColor=white&link=https://glitch.com/@brennan)](https://glitch.com/@brennan)
-[![Ko-fi](https://img.shields.io/badge/-Ko%E2%80%93fi-FF5E5B?style=flat&logo=ko-fi&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](https://ko-fi.com/brennanbrown)
+[![Dev.to](https://img.shields.io/badge/-dev&#46;to-0A0A0A?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/faisalaffan)](https://dev.to/faisalaffan)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-affan/)](https://www.linkedin.com/in/faisal-affan/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@faisal-afn)](https://medium.com/@faisal-afn)
+[![Ko-fi](https://img.shields.io/badge/-Ko%E2%80%93fi-FF5E5B?style=flat&logo=ko-fi&logoColor=ffffff&link=https://ko-fi.com/faisalaffan)](https://ko-fi.com/faisalaffan)
 [![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)](https://pronoun.is/he)
 [![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)](https://opensource.guide/)
-[![Liberapay](https://img.shields.io/badge/-Donate-F6C915?style=flat&logo=liberapay&logoColor=000000&link=https://liberapay.com/@brennan)](https://libera.com/@brennan)
 
-<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://brennan.substack.com">Newsletter</a></b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://faisalaffan.com">Website</a> / <a href="https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view">Resume</a></b> :octocat: </p>
 
 ## About Me :wave:
 
@@ -48,31 +48,32 @@ In my spare time I often slice from (figma to html) or (from figma to flutter co
 
 ## Technologies I'm Learning :books:
 
-#### Software:
+#### Language:
 
-![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![PHP](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
+![Javascript](https://img.shields.io/badge/-Javascript-efdb4f?style=flat-square&logo=javascript&logoColor=000000)
+![Go](https://img.shields.io/badge/-Golang-08a4ce?style=flat-square&logo=go&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/-Dart-b1e4ff?style=flat-square&logo=dart&logoColor=000000)
+![Sql](https://img.shields.io/badge/-Sql-04a1de?style=flat-square&logo=mysql&logoColor=ffffff)
 
-#### Front-end:
+#### Front-end / Mobile:
 
 ![Sass](https://img.shields.io/badge/-SASS-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
+![Typescript](https://img.shields.io/badge/-Typescript-%2f71bb?style=flat-square&logo=typescript&logoColor=ffffff&color=2f71bb)
 ![D3.js](https://img.shields.io/badge/-D3&#46;js-333333?style=flat-square&logo=d3.js&logoColor=F9A03C)
-![Gatsby](https://img.shields.io/badge/-Gabtsy-663399?style=flat-square&logo=Gatsby&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Rails](http://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=ffffff)
-![Jekyll](http://img.shields.io/badge/-Jekyll-a83232?style=flat-square&logo=jekyll&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat-square&logo=flutter&logoColor=2f71bb)
 
 
 #### Back-end:
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Flask](http://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-007ACC?style=flat-square&logo=kubernetes&logoColor=ffffff)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-007ACC?style=flat-square&logo=digitalocean&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
@@ -81,10 +82,8 @@ In my spare time I often slice from (figma to html) or (from figma to flutter co
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![FreeBSD](http://img.shields.io/badge/-Free%20BSD-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)
-![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
+![Centos](http://img.shields.io/badge/-Centos-22216D?style=flat-square&logo=centos&logoColor=ffffff)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
 <hr>
