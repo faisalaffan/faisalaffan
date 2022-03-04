@@ -64,6 +64,9 @@ In my spare time I often slice from (figma to html) or (from figma to flutter co
 ![D3.js](https://img.shields.io/badge/-D3&#46;js-333333?style=flat-square&logo=d3.js&logoColor=F9A03C)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat-square&logo=flutter&logoColor=2f71bb)
+![React](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
+![Jest](http://img.shields.io/badge/-Jest-913E56?style=flat-square&logo=jest&logoColor=ffffff)
+![Cypress](http://img.shields.io/badge/-Cypress-47A248?style=flat-square&logo=cypress&logoColor=ffffff)
 
 
 #### Back-end:
@@ -76,6 +79,10 @@ In my spare time I often slice from (figma to html) or (from figma to flutter co
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-007ACC?style=flat-square&logo=digitalocean&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![Express](http://img.shields.io/badge/-Express-269539?style=flat-square&logo=express&logoColor=ffffff)
+![Postman](http://img.shields.io/badge/-Postman-f26534?style=flat-square&logo=postman&logoColor=ffffff)
+![Cypress](http://img.shields.io/badge/-Cypress-47A248?style=flat-square&logo=cypress&logoColor=ffffff)
+![Jest](http://img.shields.io/badge/-Jest-913E56?style=flat-square&logo=jest&logoColor=ffffff)
 
 
 #### Editors and Operating Systems:
