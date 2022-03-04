@@ -88,11 +88,7 @@ In my spare time I often slice from (figma to html) or (from figma to flutter co
 
 <hr>
 
-### Recent Posts :bookmark_tabs:
+<!-- ### Recent Posts :bookmark_tabs: -->
 <!-- BLOG-POST-LIST:START -->
-- [Tracking Every Aspect of My Life for a Year](https://dev.to/brennan/tracking-every-aspect-of-my-life-for-a-year-pm6)
-- [8 Cheap or Free Learning Resources!](https://dev.to/brennan/8-cheap-or-free-learning-resources-j1j)
-- [Watery: A New Theme](https://dev.to/brennan/watery-for-jekyll-i6c)
-- [Jumping Into Jekyll](https://dev.to/brennan/jumping-into-jekyll-4o9h)
-- [My Coding Journey](https://dev.to/brennan/my-coding-journey-32h6)
+<!-- - [Tracking Every Aspect of My Life for a Year](https://dev.to/brennan/tracking-every-aspect-of-my-life-for-a-year-pm6) -->
 <!-- BLOG-POST-LIST:END -->
