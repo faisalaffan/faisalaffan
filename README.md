@@ -37,11 +37,11 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Brennan, I'm a 25-year-old Métis JAMstack developer and content strategist from Winnipeg, Manitoba and currently reside in Calgary, Alberta. Last year, I compeleted the Full Stack Developer Program at [EvolveU](https://www.evolveu.ca/), and I'm looking to help those that need web development work done, or searching for ideas and management for their next content project.
+Hey there! :smile: My name is Faisal, I'm a 20-year-old Fullstack developer and Software Architect from Malang, Indonesia and currently working in Surabaya, Indonesia. 
 
-I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with small, static websites and projects. I'm a big proponent of putting an emphasis on accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
+I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with small, static websites and projects. I am a big supporter of building a software developer community that is [Wadahsukses](https://wadahsukses.com/) in Software Architecture.
 
-I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [**an e-mail**](mailto:mail@brennanbrown.ca) if that sounds like your cup of tea.
+In my spare time I often slice from (figma to html) or (from figma to flutter component). so feel free to contact me to share UI/UX for copyright which I will embed in playstore. Please shoot me [**an e-mail**](mailto:faisallionel@gmail.com) if that wants to collaborate between UI/UX & Developer.
 
 <!-- More info on badges: https://github.com/badges/shields/blob/master/doc/logos.md -->
 <!-- SimpleIcons: https://simpleicons.org/ -->
