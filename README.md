@@ -71,6 +71,7 @@ In my spare time I often slice from (figma to html) or (from figma to flutter co
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=ffffff)
+![Elastic](https://img.shields.io/badge/-Elastic-f1bb12?style=for-the-badge&logo=elastic&logoColor=000000)
 
 #### Testing:
 ![Cypress](http://img.shields.io/badge/-Cypress-47A248?style=for-the-badge&logo=cypress&logoColor=ffffff)
@@ -85,12 +86,14 @@ In my spare time I often slice from (figma to html) or (from figma to flutter co
 
 #### Editors, Operating Systems and Other Tools:
 
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
+![Mac](http://img.shields.io/badge/-MacOs-000000?style=for-the-badge&logo=apple&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=ffffff)
 ![Centos](http://img.shields.io/badge/-Centos-22216D?style=for-the-badge&logo=centos&logoColor=ffffff)
-![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)
 ![Postman](http://img.shields.io/badge/-Postman-f26534?style=for-the-badge&logo=postman&logoColor=ffffff)
+![Debian](http://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=ffffff)
+![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
+
 
 ## Working Experience :books:
 | EACIIT (Big Data & Digitisation) | (07/2018 - 10/2018) |
@@ -102,7 +105,7 @@ In my spare time I often slice from (figma to html) or (from figma to flutter co
 | Frontend Developer | Contribution Frontend With Nuxt JS & React Native |
 | Software Engineer | Contribution Backend & Frontend With Golang And Nuxt JS |
 
-## My products
+<!-- ## My products
 
 Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 -------------- | ----------------- | -------------------- | ---------------------
@@ -126,7 +129,7 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*
 3. **[🙏 Docker and Django](https://www.creative-tim.com/blog/django-template/docker-and-django-how-to-start-fast/)** <br> *How to start fast*
 4. **[⭐️ Technology](https://www.creative-tim.com/blog/ux/importance-user-experience-expert/)** <br> *The Importance of a User Experience Expert in Every Company*
-5. **[💣 Shopify Templates](https://www.creative-tim.com/blog/shopify-themes/best-ecommerce-shopify-templates/)** <br> *10+ Best E-commerce Shopify Templates*
+5. **[💣 Shopify Templates](https://www.creative-tim.com/blog/shopify-themes/best-ecommerce-shopify-templates/)** <br> *10+ Best E-commerce Shopify Templates* -->
 
 
 ## My Highlighted Repository
@@ -142,6 +145,7 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 
 ## Contact us
 
+[<img alt="Gmail" src="https://img.shields.io/badge/Linktree-32bf7b?style=for-the-badge&logo=linktree&logoColor=white" />](https://linktr.ee/faisal282)
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/faisal282) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/faisaltuhini) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/faisal-affan) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC9CHkBxXXYgS605L-PvkA5w) 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:faisallionel@gmail.com)
 
