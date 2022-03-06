@@ -131,8 +131,10 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 4. **[⭐️ Technology](https://www.creative-tim.com/blog/ux/importance-user-experience-expert/)** <br> *The Importance of a User Experience Expert in Every Company*
 5. **[💣 Shopify Templates](https://www.creative-tim.com/blog/shopify-themes/best-ecommerce-shopify-templates/)** <br> *10+ Best E-commerce Shopify Templates* -->
 
+## My Highlighted ( Frontend / Mobile ) Template
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=asia-website&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/asia-website)
 
-## My Highlighted Repository
+## My Highlighted Project
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=the-look-ecommerce&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/the-look-ecommerce)
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=jahet-apps-clothing&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/jahet-apps-clothing)
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=creafood&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/creafood)
