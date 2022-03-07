@@ -132,7 +132,7 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 5. **[💣 Shopify Templates](https://www.creative-tim.com/blog/shopify-themes/best-ecommerce-shopify-templates/)** <br> *10+ Best E-commerce Shopify Templates* -->
 
 ## My Highlighted ( Frontend / Mobile ) Template
-[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=asia-website&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/asia-website)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=asia-website&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://s2asia.ac.id)
 
 ## My Highlighted Project
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=the-look-ecommerce&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/the-look-ecommerce)
