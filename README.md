@@ -19,7 +19,7 @@
 
 [![Dev.to](https://img.shields.io/badge/-dev&#46;to-0A0A0A?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/faisalaffan)](https://dev.to/faisalaffan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-affan/)](https://www.linkedin.com/in/faisal-affan/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@faisal-afn)](https://medium.com/@faisal-afn)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@faisal-affan)](https://medium.com/@faisal-affan)
 [![Ko-fi](https://img.shields.io/badge/-Ko%E2%80%93fi-FF5E5B?style=flat&logo=ko-fi&logoColor=ffffff&link=https://ko-fi.com/faisalaffan)](https://ko-fi.com/faisalaffan)
 [![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)](https://pronoun.is/he)
 [![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)](https://opensource.guide/)
