@@ -2,9 +2,9 @@
    <h1>Hi there! Faisal Here ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Faisal282&count_private=true&show_icons=true&hide_title=true&hide=stars" /> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=faisal282&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
-<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=faisal282&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" " /> -->
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=faisalaffan&count_private=true&show_icons=true&hide_title=true&hide=stars" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=faisalaffan&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
+<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=faisalaffan&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" " /> -->
 
 
 - 👨🏻‍💻 Software Engineer 
@@ -40,7 +40,7 @@ In my spare time I often slice from (figma to html) or (from figma to flutter co
 ## Technologies I'm Learning :books:
 
 #### Language:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal282&layout=compact&theme=cobalt&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalaffan&layout=compact&theme=cobalt&hide_border=true"/>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -132,23 +132,23 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 5. **[💣 Shopify Templates](https://www.creative-tim.com/blog/shopify-themes/best-ecommerce-shopify-templates/)** <br> *10+ Best E-commerce Shopify Templates* -->
 
 ## My Highlighted ( Frontend / Mobile ) Template
-[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=asia-website&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://s2asia.ac.id)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=asia-website&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://s2asia.ac.id)
 
 ## My Highlighted Project
-[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=the-look-ecommerce&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/the-look-ecommerce)
-[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=jahet-apps-clothing&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/jahet-apps-clothing)
-[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=creafood&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/creafood)
-[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=skin-kerr&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/skin-kerr)
-[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=gedoong-property&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/gedoong-property)
-[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisal282&repo=asia-website&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/Faisal282/asia-website)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=the-look-ecommerce&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/faisalaffan/the-look-ecommerce)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=jahet-apps-clothing&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/faisalaffan/jahet-apps-clothing)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=creafood&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/faisalaffan/creafood)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=skin-kerr&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/faisalaffan/skin-kerr)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=gedoong-property&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/faisalaffan/gedoong-property)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=asia-website&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/faisalaffan/asia-website)
 
 ## Donate Me
 <a href="https://saweria.co/faisalaffan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## Contact us
 
-[<img alt="Gmail" src="https://img.shields.io/badge/Linktree-32bf7b?style=for-the-badge&logo=linktree&logoColor=white" />](https://linktr.ee/faisal282)
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/faisal282) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/faisaltuhini) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/faisal-affan) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC9CHkBxXXYgS605L-PvkA5w) 
+[<img alt="Gmail" src="https://img.shields.io/badge/Linktree-32bf7b?style=for-the-badge&logo=linktree&logoColor=white" />](https://linktr.ee/faisalaffan)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/faisalaffan) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/faisaltuhini) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/faisal-affan) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC9CHkBxXXYgS605L-PvkA5w) 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:faisallionel@gmail.com)
 
 <p align="center"> © 2022 Faisal Affan, all rights reserved. Made with ❤️ for a better web. </p>
