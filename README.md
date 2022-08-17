@@ -27,6 +27,7 @@
 <p align="center"> :octocat: <b><a href="https://faisalaffan.com">Website</a> / <a href="https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view">Resume</a></b> :octocat: </p>
 
 ## About Me :wave:
+<a href="https://app.daily.dev/faisalaffan"><img src="https://api.daily.dev/devcards/4f77695192d74db18a7239ad5a796a69.png?r=k78" width="400" alt="Faisal Affan's Dev Card"/></a>
 
 Hey there! :smile: My name is Faisal, I'm a 20-year-old Fullstack developer and Software Architect from Malang, Indonesia and currently working in Surabaya, Indonesia. 
 
