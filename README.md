@@ -145,7 +145,7 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 <a href="https://saweria.co/faisalaffan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## Badge
-<a href="https://app.daily.dev/faisalaffan"><img src="https://api.daily.dev/devcards/4f77695192d74db18a7239ad5a796a69.png?r=k78" height="100" alt="Faisal Affan's Dev Card"/></a>
+<a href="https://app.daily.dev/faisalaffan"><img src="https://api.daily.dev/devcards/4f77695192d74db18a7239ad5a796a69.png?r=k78" height="400" alt="Faisal Affan's Dev Card"/></a>
 
 ## Contact Me
 
