@@ -27,8 +27,6 @@
 <p align="center"> :octocat: <b><a href="https://faisalaffan.com">Website</a> / <a href="https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view">Resume</a></b> :octocat: </p>
 
 ## About Me :wave:
-<a href="https://app.daily.dev/faisalaffan"><img src="https://api.daily.dev/devcards/4f77695192d74db18a7239ad5a796a69.png?r=k78" width="400" alt="Faisal Affan's Dev Card"/></a>
-
 Hey there! :smile: My name is Faisal, I'm a 20-year-old Fullstack developer and Software Architect from Malang, Indonesia and currently working in Surabaya, Indonesia. 
 
 I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with small, static websites and projects. I am a big supporter of building a software developer community that is [Wadahsukses](https://wadahsukses.com/) in Software Architecture.
@@ -146,7 +144,10 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 ## Donate Me
 <a href="https://saweria.co/faisalaffan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-## Contact us
+## Badge
+<a href="https://app.daily.dev/faisalaffan"><img src="https://api.daily.dev/devcards/4f77695192d74db18a7239ad5a796a69.png?r=k78" height="100" alt="Faisal Affan's Dev Card"/></a>
+
+## Contact Me
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Linktree-32bf7b?style=for-the-badge&logo=linktree&logoColor=white" />](https://linktr.ee/faisalaffan)
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/faisalaffan) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/faisaltuhini) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/faisal-affan) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC9CHkBxXXYgS605L-PvkA5w) 
