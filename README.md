@@ -33,6 +33,8 @@ I would also love to volunteer my time to contributing to open-source projects! 
 
 In my spare time I often slice from (figma to html) or (from figma to flutter component). so feel free to contact me to share UI/UX for copyright which I will embed in playstore. Please shoot me [**an e-mail**](mailto:faisallionel@gmail.com) if that wants to collaborate between UI/UX & Developer.
 
+![Metrics](https://metrics.lecoq.io/faisalaffan?template=terminal&base.hireable=true&isocalendar=1&screenshot=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&isocalendar=false&isocalendar.duration=half-year&screenshot=false&screenshot.title=website&screenshot.url=https%3A%2F%2Ffaisalaffan.com&screenshot.selector=body&screenshot.background=true&config.timezone=Asia%2FJakarta)
+
 <!-- More info on badges: https://github.com/badges/shields/blob/master/doc/logos.md -->
 <!-- SimpleIcons: https://simpleicons.org/ -->
 
@@ -146,7 +148,6 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 
 ## Badge
 <a href="https://app.daily.dev/faisalaffan"><img src="https://api.daily.dev/devcards/4f77695192d74db18a7239ad5a796a69.png?r=k78" height="400" alt="Faisal Affan's Dev Card"/></a>
-![Metrics](https://metrics.lecoq.io/faisalaffan?template=terminal&base.hireable=true&isocalendar=1&screenshot=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&isocalendar=false&isocalendar.duration=half-year&screenshot=false&screenshot.title=website&screenshot.url=https%3A%2F%2Ffaisalaffan.com&screenshot.selector=body&screenshot.background=true&config.timezone=Asia%2FJakarta)
 
 ## Contact Me
 
