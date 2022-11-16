@@ -27,7 +27,7 @@
 <p align="center"> :octocat: <b><a href="https://faisalaffan.com">Website</a> / <a href="https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view">Resume</a></b> :octocat: </p>
 
 ## About Me :wave:
-Hey there! :smile: My name is Faisal, I'm a 20-year-old Fullstack developer and Software Architect from Malang, Indonesia and currently working in Surabaya, Indonesia. 
+Hey there! :smile: My name is Faisal, I'm a 20-year-old Fullstack developer and Software Architect from Malang, Indonesia and currently working in Jakarta Selatan, Indonesia. 
 
 I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with small, static websites and projects. I am a big supporter of building a software developer community that is [Wadahsukses](https://wadahsukses.com/) in Software Architecture.
 
