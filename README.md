@@ -132,8 +132,12 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 4. **[⭐️ Technology](https://www.creative-tim.com/blog/ux/importance-user-experience-expert/)** <br> *The Importance of a User Experience Expert in Every Company*
 5. **[💣 Shopify Templates](https://www.creative-tim.com/blog/shopify-themes/best-ecommerce-shopify-templates/)** <br> *10+ Best E-commerce Shopify Templates* -->
 
+## My Boilerplate / Architecture Template
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=nextjs-clean-architecture&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://https://github.com/faisalaffan/nextjs-clean-architecture)
+
 ## My Highlighted ( Frontend / Mobile ) Template
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=asia-website&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://s2asia.ac.id)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=asia-website&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://tokosarjana.com)
 
 ## My Highlighted Project
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=the-look-ecommerce&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/faisalaffan/the-look-ecommerce)
