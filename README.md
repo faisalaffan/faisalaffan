@@ -33,8 +33,6 @@ I would also love to volunteer my time to contributing to open-source projects! 
 
 In my spare time I often slice from (figma to html) or (from figma to flutter component). so feel free to contact me to share UI/UX for copyright which I will embed in playstore. Please shoot me [**an e-mail**](mailto:faisallionel@gmail.com) if that wants to collaborate between UI/UX & Developer.
 
-![Metrics](https://metrics.lecoq.io/faisalaffan?template=terminal&base.hireable=true&isocalendar=1&screenshot=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&isocalendar=false&isocalendar.duration=half-year&screenshot=false&screenshot.title=website&screenshot.url=https%3A%2F%2Ffaisalaffan.com&screenshot.selector=body&screenshot.background=true&config.timezone=Asia%2FJakarta)
-
 <!-- More info on badges: https://github.com/badges/shields/blob/master/doc/logos.md -->
 <!-- SimpleIcons: https://simpleicons.org/ -->
 
@@ -105,6 +103,11 @@ In my spare time I often slice from (figma to html) or (from figma to flutter co
 | :--------------: | :-----------------: |
 | Frontend Developer | Contribution Frontend With Nuxt JS & React Native |
 | Software Engineer | Contribution Backend & Frontend With Golang And Nuxt JS |
+
+| BTPN Syariah | (05/2022 - Present) |
+| :--------------: | :-----------------: |
+| Frontend Developer | Contribution On Prospera (Core Banking) with XLINK Backbone |
+| Senior Backend Golang | Contribution On creating Sitepat & Terra Sitepat |
 
 <!-- ## My products
 
