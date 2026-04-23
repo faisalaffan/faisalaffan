@@ -1,6 +1,8 @@
 # Muhammad Faisal Affan
 
-Full-stack engineer based in Indonesia. Building **[mstore](https://github.com/faisalaffan/mstore)** — a multi-tenant ERP & commerce platform for Southeast Asian SMEs, and working on enterprise banking solutions at BTPN Syariah.
+Backend engineer with full-stack ownership. I don't just ship features — I track whether they work.
+
+Based in Indonesia, building **[mstore](https://github.com/faisalaffan/mstore)** — a multi-tenant ERP platform for Southeast Asian SMEs, and contributing to enterprise banking at BTPN Syariah.
 
 **Open to remote roles** — US, Indonesia. [Get in touch →](mailto:faisallionel@gmail.com)
 
@@ -54,10 +56,32 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 
 ### Featured projects
 
+<table>
+<tr>
+<td>
+
 [![nextjs-clean-architecture](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=nextjs-clean-architecture&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/faisalaffan/nextjs-clean-architecture)
+
+</td>
+<td>
+
 [![the-look-ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=the-look-ecommerce&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/faisalaffan/the-look-ecommerce)
+
+</td>
+</tr>
+<tr>
+<td>
+
 [![jahet-apps-clothing](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=jahet-apps-clothing&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/faisalaffan/jahet-apps-clothing)
+
+</td>
+<td>
+
 [![creafood](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=creafood&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/faisalaffan/creafood)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -84,4 +108,4 @@ Education: 6+ years in production software development.
 - 🤝 **Collaborating?** Open to OSS contributions in Go, DevTools, or SaaS architecture.
 - 💬 **Just chatting?** [LinkedIn](https://www.linkedin.com/in/faisal-affan) works best.
 
-<sub>Based in Jakarta, Indonesia · GMT+7 · Open to US Remote</sub>
+<sub>Based in Jakarta, Indonesia · GMT+7 · 🕐 9 AM–5 PM PST / EST overlap for US team calls</sub>
