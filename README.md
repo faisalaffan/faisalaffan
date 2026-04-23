@@ -71,7 +71,7 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 - [the-look-ecommerce](https://github.com/faisalaffan/the-look-ecommerce) — E-commerce template
 - [jahet-apps-clothing](https://github.com/faisalaffan/jahet-apps-clothing) — Clothing store app
 
-[View all contributions →](https://github.com/faisalaffan?tab=repositories)
+[View all contributions →](https://github.com/faisalaffan/foss-contribution)
 
 ---
 
