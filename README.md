@@ -2,7 +2,7 @@
 
 Product-minded engineer who ships end-to-end. I don't just build features — I track whether they work.
 
-Based in Indonesia, building **[MSTORE](https://github.com/faisalaffan/mstore)** — a multi-tenant ERP platform for Southeast Asian SMEs, and contributing to enterprise banking at BTPN Syariah.
+Based in Indonesia, building **[MSTORE](https://github.com/faisalaffan/mstore)** — a multi-tenant POS platform for Southeast Asian SMEs, and contributing to enterprise banking at BTPN Syariah.
 
 **Open to remote roles** — US, Indonesia. [Get in touch →](mailto:faisallionel@gmail.com)
 
@@ -25,11 +25,15 @@ Based in Indonesia, building **[MSTORE](https://github.com/faisalaffan/mstore)**
 I build production systems end-to-end — backend services, admin dashboards, mobile apps, and the infrastructure that runs them. My focus is on **multi-tenant SaaS architecture** and **Go backend development** at scale.
 
 **Currently building**
-- 🏗️ **[MSTORE](https://github.com/faisalaffan/mstore)** — Multi-tenant ERP platform for Southeast Asian SMEs (Go/GORM/MySQL, Next.js, Flutter, Kubernetes)
+- 🏗️ **[MSTORE](https://github.com/faisalaffan/mstore)** — Multi-tenant POS platform for Southeast Asian SMEs (Go/GORM/MySQL, Next.js, Flutter, Kubernetes)
+- 🏗️ **[PAYSALES](https://github.com/faisalaffan/paysales)** — Multi-tenant ERP platform for Global SMEs (Go/GORM/MySQL, Next.js, Flutter, Kubernetes)
 
 **Selected past work**
-- 🏦 **BTPN Syariah** — Enterprise banking with Golang & Flutter (Terra Sitepat)
-- 📝 **[nextjs-clean-architecture](https://github.com/faisalaffan/nextjs-clean-architecture)** — Production-ready clean architecture template
+- 🏦 **BTPN Syariah** — Enterprise banking with Golang & Flutter
+  - [*Terra Sitepat*](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en) — Customer-facing banking apps
+  - [*Tepati*](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) — Loan management system
+- ⛏️ **PT Harmoni Panca Utama** — Mining operations platform
+  - [*HPU Digital Mining Platform*](https://news.faisalaffan.com/news/product/harmoni-panca-utama-en?category=Product&lang=en) — Fleet management, fuel monitoring & HSE for coal mining operations
 
 ### Background
 
@@ -39,7 +43,7 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 - Software Engineer @ Kano Solution *(2020–2022)*
 - Internship @ EACIIT *(2018)*
 
-**Education** — 6+ years in production software development
+**Experience** — 6+ years in production software development
 
 ---
 
