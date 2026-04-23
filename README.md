@@ -113,7 +113,13 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 
 ### Writing & deep dives
 
-- Technical content on [Dev.to](https://dev.to/faisalaffan) and [Medium](https://medium.com/@faisal-affan)
+**Case studies** — product & architecture writeups
+- [Sitepat](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en) — Enterprise banking platform
+- [Tepati](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) — Multi-tenant SaaS
+- [Harmoni Panca Utama](https://news.faisalaffan.com/news/product/harmoni-panca-utama-en?category=Product&lang=en) — SME ERP implementation
+- [IAG Cybera360](https://news.faisalaffan.com/news/product/iag-cybera360-en?category=Product&lang=en) — Cybersecurity platform
+
+**Technical content** on [Dev.to](https://dev.to/faisalaffan) and [Medium](https://medium.com/@faisal-affan)
 - Co-founder at [Affan Tech](https://affantech.com) — building tools for the developer community
 
 *More on [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [Resume](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)*
