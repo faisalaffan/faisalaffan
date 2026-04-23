@@ -33,9 +33,13 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 
 ### Background
 
-Currently: Senior Backend Developer at BTPN Syariah + building MSTORE.
-Previously: Software Engineer at Kano Solution (2020-2022), Internship at EACIIT (2018).
-Education: 6+ years in production software development.
+**Currently** — Senior Backend Developer @ BTPN Syariah + Building MSTORE
+
+**Previously**
+- Software Engineer @ Kano Solution *(2020–2022)*
+- Internship @ EACIIT *(2018)*
+
+**Education** — 6+ years in production software development
 
 ---
 
@@ -56,9 +60,25 @@ Education: 6+ years in production software development.
 
 ### Open Source
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=nextjs-clean-architecture&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" width="150" />](https://github.com/faisalaffan/nextjs-clean-architecture)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=the-look-ecommerce&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" width="150" />](https://github.com/faisalaffan/the-look-ecommerce)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=jahet-apps-clothing&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" width="150" />](https://github.com/faisalaffan/jahet-apps-clothing)
+<table>
+<tr>
+<td>
+
+[![nextjs-clean-architecture](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=nextjs-clean-architecture&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/faisalaffan/nextjs-clean-architecture)
+
+</td>
+<td>
+
+[![the-look-ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=the-look-ecommerce&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/faisalaffan/the-look-ecommerce)
+
+</td>
+<td>
+
+[![jahet-apps-clothing](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=jahet-apps-clothing&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/faisalaffan/jahet-apps-clothing)
+
+</td>
+</tr>
+</table>
 
 [View all contributions →](https://github.com/faisalaffan?tab=repositories)
 
@@ -128,14 +148,6 @@ Education: 6+ years in production software development.
 </td>
 </tr>
 </table>
-
----
-
-### Background
-
-Currently: Senior Backend Developer at BTPN Syariah + building mstore.
-Previously: Software Engineer at Kano Solution (2020-2022), Internship at EACIIT (2018).
-Education: 6+ years in production software development.
 
 ---
 
