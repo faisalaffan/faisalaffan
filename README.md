@@ -1,8 +1,8 @@
 # Muhammad Faisal Affan
 
-Backend engineer with full-stack ownership. I don't just ship features — I track whether they work.
+Product-minded engineer who ships end-to-end. I don't just build features — I track whether they work.
 
-Based in Indonesia, building **[mstore](https://github.com/faisalaffan/mstore)** — a multi-tenant ERP platform for Southeast Asian SMEs, and contributing to enterprise banking at BTPN Syariah.
+Based in Indonesia, building **[MSTORE](https://github.com/faisalaffan/mstore)** — a multi-tenant ERP platform for Southeast Asian SMEs, and contributing to enterprise banking at BTPN Syariah.
 
 **Open to remote roles** — US, Indonesia. [Get in touch →](mailto:faisallionel@gmail.com)
 
@@ -24,7 +24,7 @@ Based in Indonesia, building **[mstore](https://github.com/faisalaffan/mstore)**
 
 I build production systems end-to-end — backend services, admin dashboards, mobile apps, and the infrastructure that runs them. My focus is on **multi-tenant SaaS architecture** and **Go backend development** at scale.
 
-- 🏗️ **[mstore](https://github.com/faisalaffan/mstore)** — Multi-tenant ERP platform (Go/GORM/MySQL, Next.js, Flutter, Kubernetes)
+- 🏗️ **[MSTORE](https://github.com/faisalaffan/mstore)** — Multi-tenant ERP platform (Go/GORM/MySQL, Next.js, Flutter, Kubernetes)
 - 🏦 **BTPN Syariah** — Enterprise banking with Golang & Flutter (Terra Sitepat)
 - 📝 **[nextjs-clean-architecture](https://github.com/faisalaffan/nextjs-clean-architecture)** — Production-ready clean architecture template
 
@@ -88,7 +88,7 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 ### Writing & deep dives
 
 - Technical content on [Dev.to](https://dev.to/faisalaffan) and [Medium](https://medium.com/@faisal-affan)
-- Open source contributions to [Wadahsukses](https://wadahsukses.com/) community
+- Co-founder at [Affan Tech](https://affantech.com) — building tools for the developer community
 
 *More on [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [Resume](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)*
 
