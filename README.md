@@ -24,7 +24,10 @@ Based in Indonesia, building **[MSTORE](https://github.com/faisalaffan/mstore)**
 
 I build production systems end-to-end — backend services, admin dashboards, mobile apps, and the infrastructure that runs them. My focus is on **multi-tenant SaaS architecture** and **Go backend development** at scale.
 
-- 🏗️ **[MSTORE](https://github.com/faisalaffan/mstore)** — Multi-tenant ERP platform (Go/GORM/MySQL, Next.js, Flutter, Kubernetes)
+**Currently building**
+- 🏗️ **[MSTORE](https://github.com/faisalaffan/mstore)** — Multi-tenant ERP platform for Southeast Asian SMEs (Go/GORM/MySQL, Next.js, Flutter, Kubernetes)
+
+**Selected past work**
 - 🏦 **BTPN Syariah** — Enterprise banking with Golang & Flutter (Terra Sitepat)
 - 📝 **[nextjs-clean-architecture](https://github.com/faisalaffan/nextjs-clean-architecture)** — Production-ready clean architecture template
 
@@ -47,10 +50,28 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 
 ### How I think about engineering
 
-- **Backend is the foundation.** I invest in clean architecture, proper error handling, and observability from day one.
-- **Multi-tenancy is a design decision, not a feature flag.** Tenant isolation, RBAC, and cost-center modeling are the first things I get Right.
-- **Contracts before code.** I use contract-driven workflows to keep services aligned.
-- **AI-assisted ≠ AI-dependent.** I use AI tooling aggressively — but I own every line that goes to main.
+- **Multi-tenancy is a design decision, not a feature flag.** 
+  Tenant isolation, RBAC scope, and cost-center modeling have to be 
+  designed into the schema, not added to it. Retrofitting multi-tenancy 
+  into a single-tenant codebase is where most SaaS products quietly die — 
+  usually around the third enterprise customer.
+
+- **Contracts prevent drift — especially with AI agents.** 
+  API specs, DB schemas, and service boundaries are the source of truth — 
+  everything else is an implementation detail. LLMs are excellent at 
+  writing code but terrible at respecting invariants, which is exactly 
+  why contract-driven workflows matter more now, not less.
+
+- **Observability is not optional.** 
+  If it's in production and I can't trace a request end-to-end, it's 
+  not shipped — it's leaked. LGTM stack, structured logging, and trace 
+  propagation are baseline, not bonus.
+
+- **AI-assisted, not AI-dependent.** 
+  Claude Code, MCP servers, and semantic search are multipliers — I use 
+  them aggressively. But I still read every diff, own every deployment, 
+  and know why each line exists. The leverage transfers; the accountability 
+  doesn't.
 
 ---
 
