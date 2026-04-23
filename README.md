@@ -34,6 +34,9 @@ I build production systems end-to-end — backend services, admin dashboards, mo
   - [*Tepati*](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) — Loan management system
 - ⛏️ **PT Harmoni Panca Utama** — Mining operations platform
   - [*HPU Digital Mining Platform*](https://news.faisalaffan.com/news/product/harmoni-panca-utama-en?category=Product&lang=en) — Fleet management, fuel monitoring & HSE for coal mining operations
+- 🏢 **Kano Solution** — Enterprise solutions with React & Golang
+  - [*IAG Cybera360*](https://news.faisalaffan.com/news/product/iag-cybera360-en?category=Product&lang=en) — Cybersecurity platform
+  - [*Minerva*](https://news.faisalaffan.com/news/product/petrosea-minerva-en?lang=en&category=Product) — Mining Operation Petrosea
 
 ### Background
 
@@ -64,25 +67,9 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 
 ### Open Source
 
-<table>
-<tr>
-<td>
-
-[![nextjs-clean-architecture](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=nextjs-clean-architecture&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/faisalaffan/nextjs-clean-architecture)
-
-</td>
-<td>
-
-[![the-look-ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=the-look-ecommerce&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/faisalaffan/the-look-ecommerce)
-
-</td>
-<td>
-
-[![jahet-apps-clothing](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=jahet-apps-clothing&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/faisalaffan/jahet-apps-clothing)
-
-</td>
-</tr>
-</table>
+- [nextjs-clean-architecture](https://github.com/faisalaffan/nextjs-clean-architecture) — Clean architecture template for Next.js
+- [the-look-ecommerce](https://github.com/faisalaffan/the-look-ecommerce) — E-commerce template
+- [jahet-apps-clothing](https://github.com/faisalaffan/jahet-apps-clothing) — Clothing store app
 
 [View all contributions →](https://github.com/faisalaffan?tab=repositories)
 
@@ -118,15 +105,15 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 ### Writing & deep dives
 
 **Case studies** — product & architecture writeups
-- [Sitepat](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en) — Enterprise banking platform
-- [Tepati](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) — Multi-tenant SaaS
-- [Harmoni Panca Utama](https://news.faisalaffan.com/news/product/harmoni-panca-utama-en?category=Product&lang=en) — SME ERP implementation
+- [Sitepat](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en) — Customer-facing banking apps
+- [Tepati](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) — Loan management system
+- [Harmoni Panca Utama](https://news.faisalaffan.com/news/product/harmoni-panca-utama-en?category=Product&lang=en) — Mining operations platform
 - [IAG Cybera360](https://news.faisalaffan.com/news/product/iag-cybera360-en?category=Product&lang=en) — Cybersecurity platform
 
 **Technical content** on [Dev.to](https://dev.to/faisalaffan) and [Medium](https://medium.com/@faisal-affan)
 - Co-founder at [Affan Tech](https://affantech.com) — building tools for the developer community
 
-*More on [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [Resume](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)*
+*More on [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [Resume](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)* · [Study Case](https://news.faisalaffan.com/news/explore?lang=en)* · [Showcase Product](https://showcase.faisalaffan.com)*
 
 ---
 
