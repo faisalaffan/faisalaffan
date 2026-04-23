@@ -31,6 +31,12 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 - 🏦 **BTPN Syariah** — Enterprise banking with Golang & Flutter (Terra Sitepat)
 - 📝 **[nextjs-clean-architecture](https://github.com/faisalaffan/nextjs-clean-architecture)** — Production-ready clean architecture template
 
+### Background
+
+Currently: Senior Backend Developer at BTPN Syariah + building MSTORE.
+Previously: Software Engineer at Kano Solution (2020-2022), Internship at EACIIT (2018).
+Education: 6+ years in production software development.
+
 ---
 
 ### Tech I reach for
@@ -45,6 +51,16 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-007ACC?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+
+---
+
+### Open Source
+
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=nextjs-clean-architecture&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" width="150" />](https://github.com/faisalaffan/nextjs-clean-architecture)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=the-look-ecommerce&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" width="150" />](https://github.com/faisalaffan/the-look-ecommerce)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=jahet-apps-clothing&theme=cobalt&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" width="150" />](https://github.com/faisalaffan/jahet-apps-clothing)
+
+[View all contributions →](https://github.com/faisalaffan?tab=repositories)
 
 ---
 
@@ -72,6 +88,15 @@ I build production systems end-to-end — backend services, admin dashboards, mo
   them aggressively. But I still read every diff, own every deployment, 
   and know why each line exists. The leverage transfers; the accountability 
   doesn't.
+
+---
+
+### Writing & deep dives
+
+- Technical content on [Dev.to](https://dev.to/faisalaffan) and [Medium](https://medium.com/@faisal-affan)
+- Co-founder at [Affan Tech](https://affantech.com) — building tools for the developer community
+
+*More on [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [Resume](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)*
 
 ---
 
@@ -103,15 +128,6 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 </td>
 </tr>
 </table>
-
----
-
-### Writing & deep dives
-
-- Technical content on [Dev.to](https://dev.to/faisalaffan) and [Medium](https://medium.com/@faisal-affan)
-- Co-founder at [Affan Tech](https://affantech.com) — building tools for the developer community
-
-*More on [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [Resume](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)*
 
 ---
 
