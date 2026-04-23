@@ -113,7 +113,7 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 **Technical content** on [Dev.to](https://dev.to/faisalaffan) and [Medium](https://medium.com/@faisal-affan)
 - Co-founder at [Affan Tech](https://affantech.com) — building tools for the developer community
 
-*More on [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [Resume](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)* · [Study Case](https://news.faisalaffan.com/news/explore?lang=en)* · [Showcase Product](https://showcase.faisalaffan.com)*
+*More on [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [Resume](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view) · [Study Case](https://news.faisalaffan.com/news/explore?lang=en) · [Showcase Product](https://showcase.faisalaffan.com)*
 
 ---
 
