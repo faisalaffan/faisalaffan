@@ -30,7 +30,7 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 
 **Selected past work**
 - 🏦 **BTPN Syariah** — Enterprise banking with Golang & Flutter
-  - [*Terra Sitepat*](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en) — Customer-facing banking apps
+  - [*Sitepat*](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en) — Customer-facing banking apps
   - [*Tepati*](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) — Loan management system
 - ⛏️ **PT Harmoni Panca Utama** — Mining operations platform
   - [*HPU Digital Mining Platform*](https://news.faisalaffan.com/news/product/harmoni-panca-utama-en?category=Product&lang=en) — Fleet management, fuel monitoring & HSE for coal mining operations
@@ -111,7 +111,7 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 - [IAG Cybera360](https://news.faisalaffan.com/news/product/iag-cybera360-en?category=Product&lang=en) — Cybersecurity platform
 
 **Technical content** on [Dev.to](https://dev.to/faisalaffan) and [Medium](https://medium.com/@faisal-affan)
-- Co-founder at [Affan Tech](https://affantech.com) — building tools for the developer community
+- Co-founder at [Affan Tech](https://www.instagram.com/affan.tech) — building tools for the developer community
 
 *More on [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [Resume](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view) · [Study Case](https://news.faisalaffan.com/news/explore?lang=en) · [Showcase Product](https://showcase.faisalaffan.com)*
 
@@ -123,24 +123,24 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 <tr>
 <td width="50%" style="text-align: center;">
 
-[![belajardart](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=nextjs-clean-architecture&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/belajardart)
+[![belajardart](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=belajardart&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/belajardart)
 
 </td>
 <td width="50%" style="text-align: center;">
 
-[![claudio](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=the-look-ecommerce&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/claudio)
+[![claudio](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=claudio&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/claudio)
 
 </td>
 </tr>
 <tr>
 <td width="50%" style="text-align: center;">
 
-[![testcast](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=jahet-apps-clothing&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/testcast)
+[![testcast](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=testcast&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/testcast)
 
 </td>
 <td width="50%" style="text-align: center;">
 
-[![creapud](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=creafood&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/creapud)
+[![creapud](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=creapud&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/creapud)
 
 </td>
 </tr>
