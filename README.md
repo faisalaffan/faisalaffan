@@ -123,24 +123,24 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 <tr>
 <td width="50%" style="text-align: center;">
 
-[![nextjs-clean-architecture](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=nextjs-clean-architecture&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/nextjs-clean-architecture)
+[![belajardart](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=nextjs-clean-architecture&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/belajardart)
 
 </td>
 <td width="50%" style="text-align: center;">
 
-[![the-look-ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=the-look-ecommerce&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/the-look-ecommerce)
+[![claudio](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=the-look-ecommerce&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/claudio)
 
 </td>
 </tr>
 <tr>
 <td width="50%" style="text-align: center;">
 
-[![jahet-apps-clothing](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=jahet-apps-clothing&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/jahet-apps-clothing)
+[![testcast](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=jahet-apps-clothing&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/testcast)
 
 </td>
 <td width="50%" style="text-align: center;">
 
-[![creafood](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=creafood&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/creafood)
+[![creapud](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=creafood&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/creapud)
 
 </td>
 </tr>
