@@ -1,3 +1,5 @@
+<div align="right">🇬🇧 EN &middot; <a href="README.id.md">🇮🇩 ID</a> &middot; <a href="README.de.md">🇩🇪 DE</a> &middot; <a href="README.ja.md">🇯🇵 JA</a> &middot; <a href="README.zh.md">🇨🇳 ZH</a> &middot; <a href="README.fr.md">🇫🇷 FR</a> &middot; <a href="README.nl.md">🇳🇱 NL</a> &middot; <a href="README.no.md">🇳🇴 NO</a> &middot; <a href="README.sv.md">🇸🇪 SV</a> &middot; <a href="README.da.md">🇩🇰 DA</a> &middot; <a href="README.ar.md">🇸🇦 AR</a></div>
+
 # Muhammad Faisal Affan
 
 Product-minded engineer who ships end-to-end. I don't just build features — I track whether they work. **6+ years** in production software development.
@@ -8,15 +10,19 @@ Based in Bogor, West Java, Indonesia. Building **[MSTORE](https://github.com/fai
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=faisalaffan&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="GitHub stats" />
-
 ### Connect
 
-[![Dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat.=0A0A0A.=dev.to.=white.=https://dev.to/faisalaffan)](https://dev.to/faisalaffan)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-affan/)](https://www.linkedin.com/in/faisal-affan/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@faisal-affan)](https://medium.com/@faisal-affan)
-[![Resume](https://img.shields.io/badge/-Resume-000?style=flat&logo=googledrive&logoColor=EA4335&link=https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:faisallionel@gmail.com)](mailto:faisallionel@gmail.com)
+<div align="center">
+
+[![Dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&labelColor=0A0A0A&logo=devdotto&logoColor=white)](https://dev.to/faisalaffan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-affan/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@faisal-affan)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/faisalaffan)
+[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://news.faisalaffan.com)
+[![Resume](https://img.shields.io/badge/-Resume-000?style=flat&logo=googledrive&logoColor=EA4335)](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faisallionel@gmail.com)
+
+</div>
 
 ---
 
