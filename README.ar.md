@@ -19,7 +19,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@faisal-affan)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/faisalaffan)
 [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://news.faisalaffan.com)
-[![السيرة الذاتية](https://img.shields.io/badge/-السيرة_الذاتية-000?style=flat&logo=googledrive&logoColor=EA4335)](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)
+[![السيرة الذاتية](https://img.shields.io/badge/-السيرة_الذاتية-000?style=flat&logo=googledrive&logoColor=EA4335)](https://drive.google.com/file/d/1yLUpNSbImfpF2PSSgadDmTa6ph_38e9S/view?usp=sharing)
 [![البريد الإلكتروني](https://img.shields.io/badge/-البريد_الإلكتروني-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faisallionel@gmail.com)
 
 </div>
@@ -167,7 +167,7 @@
 
 - المؤسس المشارك في [Affan Tech](https://www.instagram.com/affan.tech) — بناء أدوات لمجتمع المطورين
 
-_المزيد على [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [السيرة الذاتية](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view) · [دراسة حالة](https://news.faisalaffan.com/news/explore?lang=en) · [عرض المنتجات](https://showcase.faisalaffan.com)_
+_المزيد على [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [السيرة الذاتية](https://drive.google.com/file/d/1yLUpNSbImfpF2PSSgadDmTa6ph_38e9S/view?usp=sharing) · [دراسة حالة](https://news.faisalaffan.com/news/explore?lang=en) · [عرض المنتجات](https://showcase.faisalaffan.com)_
 
 ---
 

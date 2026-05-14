@@ -19,7 +19,7 @@ Basiert in Bogor, West-Java, Indonesien. Ich baue **[MSTORE](https://github.com/
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@faisal-affan)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/faisalaffan)
 [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://news.faisalaffan.com)
-[![Lebenslauf](https://img.shields.io/badge/-Lebenslauf-000?style=flat&logo=googledrive&logoColor=EA4335)](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view)
+[![Lebenslauf](https://img.shields.io/badge/-Lebenslauf-000?style=flat&logo=googledrive&logoColor=EA4335)](https://drive.google.com/file/d/1yLUpNSbImfpF2PSSgadDmTa6ph_38e9S/view?usp=sharing)
 [![E-Mail](https://img.shields.io/badge/-E--Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faisallionel@gmail.com)
 
 </div>
@@ -180,7 +180,7 @@ Ich baue Produktionssysteme End-to-End — Backend-Dienste, Admin-Dashboards, mo
 
 - Mitgründer bei [Affan Tech](https://www.instagram.com/affan.tech) — baue Werkzeuge für die Entwickler-Community
 
-_Mehr auf [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [Lebenslauf](https://drive.google.com/file/d/1g-2MQZH3t5J6TYeS8lHCWeTOUIzpF5ZZ/view) · [Study Case](https://news.faisalaffan.com/news/explore?lang=en) · [Showcase Product](https://showcase.faisalaffan.com)_
+_Mehr auf [LinkedIn](https://www.linkedin.com/in/faisal-affan) · [Lebenslauf](https://drive.google.com/file/d/1yLUpNSbImfpF2PSSgadDmTa6ph_38e9S/view?usp=sharing) · [Study Case](https://news.faisalaffan.com/news/explore?lang=en) · [Showcase Product](https://showcase.faisalaffan.com)_
 
 ---
 
