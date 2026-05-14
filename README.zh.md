@@ -1,3 +1,5 @@
+<div align="right"><a href="README.md">🇬🇧 EN</a> &middot; <a href="README.id.md">🇮🇩 ID</a> &middot; <a href="README.de.md">🇩🇪 DE</a> &middot; <a href="README.ja.md">🇯🇵 JA</a> &middot; 🇨🇳 ZH &middot; <a href="README.fr.md">🇫🇷 FR</a> &middot; <a href="README.nl.md">🇳🇱 NL</a> &middot; <a href="README.no.md">🇳🇴 NO</a> &middot; <a href="README.sv.md">🇸🇪 SV</a> &middot; <a href="README.da.md">🇩🇰 DA</a> &middot; <a href="README.ar.md">🇸🇦 AR</a></div>
+
 # Muhammad Faisal Affan
 
 产品思维驱动的工程师，端到端交付。我不只是构建功能 — 我会追踪它们是否真正有效。拥有**6年以上**的软件产品开发经验。

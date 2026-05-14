@@ -1,3 +1,5 @@
+<div align="right"><a href="README.md">🇬🇧 EN</a> &middot; <a href="README.id.md">🇮🇩 ID</a> &middot; 🇩🇪 DE &middot; <a href="README.ja.md">🇯🇵 JA</a> &middot; <a href="README.zh.md">🇨🇳 ZH</a> &middot; <a href="README.fr.md">🇫🇷 FR</a> &middot; <a href="README.nl.md">🇳🇱 NL</a> &middot; <a href="README.no.md">🇳🇴 NO</a> &middot; <a href="README.sv.md">🇸🇪 SV</a> &middot; <a href="README.da.md">🇩🇰 DA</a> &middot; <a href="README.ar.md">🇸🇦 AR</a></div>
+
 # Muhammad Faisal Affan
 
 Product-orientierter Ingenieur, der End-to-End liefert. Ich baue nicht nur Features — ich prüfe, ob sie funktionieren. **6+ Jahre** in der produktiven Softwareentwicklung.

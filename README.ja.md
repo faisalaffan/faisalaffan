@@ -1,3 +1,5 @@
+<div align="right"><a href="README.md">🇬🇧 EN</a> &middot; <a href="README.id.md">🇮🇩 ID</a> &middot; <a href="README.de.md">🇩🇪 DE</a> &middot; 🇯🇵 JA &middot; <a href="README.zh.md">🇨🇳 ZH</a> &middot; <a href="README.fr.md">🇫🇷 FR</a> &middot; <a href="README.nl.md">🇳🇱 NL</a> &middot; <a href="README.no.md">🇳🇴 NO</a> &middot; <a href="README.sv.md">🇸🇪 SV</a> &middot; <a href="README.da.md">🇩🇰 DA</a> &middot; <a href="README.ar.md">🇸🇦 AR</a></div>
+
 # Muhammad Faisal Affan
 
 プロダクト志向のエンジニア。エンドツーエンドで開発し、機能を作るだけではなく、それが実際に機能しているかを追跡します。**6年以上**のプロダクションソフトウェア開発経験。
