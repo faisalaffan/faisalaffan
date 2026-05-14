@@ -121,27 +121,39 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 
 <table>
 <tr>
-<td width="50%" style="text-align: center;">
-
-[![belajardart](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=belajardart&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/belajardart)
-
+<td width="50%" valign="top">
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 14px 16px 12px;">
+    <a href="https://github.com/faisalaffan/belajardart" style="font-weight: 600; font-size: 14px; color: #58a6ff; text-decoration: none;">belajardart</a>
+    <p style="font-size: 12px; color: #8b949e; margin: 2px 0 12px; line-height: 1.4;">Dasar-dasar pemrograman Dart &amp; best practice Flutter</p>
+    <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background-color: #00B4AB;"></span>
+    &nbsp;<span style="font-size: 12px; color: #8b949e;">Dart / Flutter</span>
+  </div>
 </td>
-<td width="50%" style="text-align: center;">
-
-[![claudio](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=claudio&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/claudio)
-
+<td width="50%" valign="top">
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 14px 16px 12px;">
+    <a href="https://github.com/faisalaffan/claudio" style="font-weight: 600; font-size: 14px; color: #58a6ff; text-decoration: none;">claudio</a>
+    <p style="font-size: 12px; color: #8b949e; margin: 2px 0 12px; line-height: 1.4;">Anthropic SDK untuk ekosistem Dart</p>
+    <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background-color: #00B4AB;"></span>
+    &nbsp;<span style="font-size: 12px; color: #8b949e;">Dart</span>
+  </div>
 </td>
 </tr>
 <tr>
-<td width="50%" style="text-align: center;">
-
-[![testcast](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=testcast&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/testcast)
-
+<td width="50%" valign="top">
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 14px 16px 12px;">
+    <a href="https://github.com/faisalaffan/testcast" style="font-weight: 600; font-size: 14px; color: #58a6ff; text-decoration: none;">testcast</a>
+    <p style="font-size: 12px; color: #8b949e; margin: 2px 0 12px; line-height: 1.4;">Opinionated Playwright TypeScript scaffolder &mdash; cast your E2E architecture once, test forever.</p>
+    <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background-color: #3178c6;"></span>
+    &nbsp;<span style="font-size: 12px; color: #8b949e;">TypeScript</span>
+  </div>
 </td>
-<td width="50%" style="text-align: center;">
-
-[![creapud](https://github-readme-stats.vercel.app/api/pin/?username=faisalaffan&repo=creapud&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&size=400)](https://github.com/faisalaffan/creapud)
-
+<td width="50%" valign="top">
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 14px 16px 12px;">
+    <a href="https://github.com/faisalaffan/creapud" style="font-weight: 600; font-size: 14px; color: #58a6ff; text-decoration: none;">creapud</a>
+    <p style="font-size: 12px; color: #8b949e; margin: 2px 0 12px; line-height: 1.4;">Creative food website, with unique food kind inside.</p>
+    <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background-color: #41b883;"></span>
+    &nbsp;<span style="font-size: 12px; color: #8b949e;">Vue / TypeScript</span>
+  </div>
 </td>
 </tr>
 </table>
