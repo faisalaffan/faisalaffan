@@ -1,10 +1,10 @@
 # Muhammad Faisal Affan
 
-Product-minded engineer who ships end-to-end. I don't just build features — I track whether they work.
+Product-minded engineer who ships end-to-end. I don't just build features — I track whether they work. **6+ years** in production software development.
 
-Based in Indonesia, building **[MSTORE](https://github.com/faisalaffan/mstore)** — a multi-tenant POS platform for Southeast Asian SMEs, and contributing to enterprise banking at BTPN Syariah.
+Based in Soreang, West Java, Indonesia. Building **[MSTORE](https://github.com/faisalaffan/mstore)** — a multi-tenant POS platform for Southeast Asian SMEs. Engineering at BTPN Syariah (enterprise banking).
 
-**Open to remote roles** — US, Indonesia. [Get in touch →](mailto:faisallionel@gmail.com)
+**Available for remote contracts** with US and global companies. [Get in touch →](mailto:faisallionel@gmail.com)
 
 ---
 
@@ -25,10 +25,10 @@ Based in Indonesia, building **[MSTORE](https://github.com/faisalaffan/mstore)**
 I build production systems end-to-end — backend services, admin dashboards, mobile apps, and the infrastructure that runs them. My focus is on **multi-tenant SaaS architecture** and **Go backend development** at scale.
 
 **Currently building**
-- 🏗️ **[MSTORE](https://github.com/faisalaffan/mstore)** — Multi-tenant POS platform for Southeast Asian SMEs (Go/GORM/MySQL, Next.js, Flutter, Kubernetes)
-- 🏗️ **[PAYSALES](https://github.com/faisalaffan/paysales)** — Multi-tenant ERP platform for Global SMEs (Go/GORM/MySQL, Next.js, Flutter, Kubernetes)
+- **[MSTORE](https://github.com/faisalaffan/mstore)** — Multi-tenant POS platform for Southeast Asian SMEs (Go/GORM/MySQL, Next.js, Flutter, Kubernetes)
+- **[PAYSALES](https://github.com/faisalaffan/paysales)** — Multi-tenant ERP platform for Global SMEs (Go/GORM/MySQL, Next.js, Flutter, Kubernetes)
 
-**Selected past work**
+**Key projects**
 - 🏦 **BTPN Syariah** — Enterprise banking with Golang & Flutter
   - [*Sitepat*](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en) — Customer-facing banking apps
   - [*Tepati*](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) — Loan management system
@@ -46,8 +46,6 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 - Software Engineer @ Kano Solution *(2020–2022)*
 - Internship @ EACIIT *(2018)*
 
-**Experience** — 6+ years in production software development
-
 ---
 
 ### Tech I reach for
@@ -55,13 +53,13 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 ![Go](https://img.shields.io/badge/-Go-08a4ce?style=for-the-badge&logo=go&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=for-the-badge&logo=flutter&logoColor=2f71bb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-007ACC?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=for-the-badge&logo=flutter&logoColor=2f71bb)
 
 ---
 
@@ -166,4 +164,4 @@ I build production systems end-to-end — backend services, admin dashboards, mo
 - 🤝 **Collaborating?** Open to OSS contributions in Go, DevTools, or SaaS architecture.
 - 💬 **Just chatting?** [LinkedIn](https://www.linkedin.com/in/faisal-affan) works best.
 
-<sub>Based in Jakarta, Indonesia · GMT+7 · 🕐 9 AM–5 PM PST / EST overlap for US team calls</sub>
+<sub>Based in Soreang, West Java, Indonesia · GMT+7 · 🕐 9 AM–5 PM PST / EST overlap for US team calls</sub>
