@@ -1,3 +1,4 @@
-- [claudio](https://github.com/faisalaffan/claudio) (Anthropic SDK for Dart), [testcast](https://github.com/faisalaffan/testcast) Playwright scaffolding for TypeScript
-- [geostack](https://github.com/faisalaffan/geostack) — geospatial REST API boilerplate
-- [chainnusa](https://github.com/faisalaffan/chainnusa) — on-chain intelligence for SEA
+# What I've Built
+
+- [MSTORE](https://github.com/faisalaffan/mstore) — multi-tenant POS for SEA SMEs (Go, Next.js, Flutter, K8s)
+- [PAYSALES](https://github.com/faisalaffan/paysales) — multi-tenant ERP for global SMEs (Go, Next.js, Flutter, K8s)
