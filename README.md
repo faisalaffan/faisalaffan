@@ -1,4 +1,10 @@
-# hey hey, Faisal here 👋
+<div align="center">
+
+> **4,100,000 users. one backend. zero downtime.**
+
+# oh hey, i'm faisal. 👋
+
+</div>
 
 <p align="center">
 <a href="https://dev.to/faisalaffan"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="Dev.to"></a>
@@ -8,19 +14,13 @@
 <a href="mailto:faisallionel@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Spent the last 8 years shipping backend systems — banking apps for 4M+ users, IoT pipelines at 50K events/sec, and lately a full ERP from scratch (yes, solo founder). Currently a Senior Backend Dev at BTPN Syariah and building [RAGI-INSTANT](https://github.com/faisalaffan/ragi-instant), a RAG system for Indonesian Banking Regulatory.
+Spent the last 8 years shipping backend systems — banking apps for 4M+ users, IoT pipelines at 50K events/sec, and lately a full ERP from scratch (yes, AI Driven solo founder). Currently a Senior Backend Dev at BTPN Syariah and building [RAGI-INSTANT](https://github.com/faisalaffan/ragi-instant), a RAG system for Indonesian Banking Regulatory.
 
 Here are some things I've built and contributed to:
 
 - Lastly Built enterprise banking systems to serving **4.1M+ users**: [Sitepat](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en) (customer-facing banking apps), [Tepati](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) (loan management system)
-- And many professional [project](/PROJECTS.md)
-- Built mining & enterprise platforms:
-  - [HPU Digital Mining Platform](https://news.faisalaffan.com/news/product/harmoni-panca-utama-en?category=Product&lang=en) — fleet, fuel monitoring, HSE for coal mining
-  - [IAG Cybera360](https://news.faisalaffan.com/news/product/iag-cybera360-en?category=Product&lang=en) — cybersecurity platform
-  - [Petrosea Minerva](https://news.faisalaffan.com/news/product/petrosea-minerva-en?lang=en&category=Product) — mining operations
-- Creator of SaaS products:
-  - [MSTORE](https://github.com/faisalaffan/mstore) — multi-tenant POS for SEA SMEs
-  - [PAYSALES](https://github.com/faisalaffan/paysales) — multi-tenant ERP for global SMEs
+- And many professional [project here](/PROJECTS.md)
+- Creator of SaaS products: [fowcuzz](https://apps.apple.com/id/app/fowcuzz/id6758438790)
 - Creator of open source tools:
   - [claudio](https://github.com/faisalaffan/claudio) — Anthropic SDK for Dart
   - [testcast](https://github.com/faisalaffan/testcast) — Playwright scaffolding for TypeScript
