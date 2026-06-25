@@ -1,0 +1,36 @@
+name: Update Years of Experience
+
+on:
+  schedule:
+    # Runs daily at 07:00 UTC (14:00 WIB)
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-years:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate years since January 2018
+        id: calc
+        run: |
+          START_YEAR=2018
+          CURRENT_YEAR=$(date +%Y)
+          YEARS=$((CURRENT_YEAR - START_YEAR))
+          echo "years=${YEARS}" >> $GITHUB_OUTPUT
+
+      - name: Update README.md
+        run: |
+          sed -i "s/<!-- YEARS_START -->[0-9]* years<!-- YEARS_END -->/<!-- YEARS_START -->${{ steps.calc.outputs.years }} years<!-- YEARS_END -->/" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update years of experience to ${{ steps.calc.outputs.years }}"
+          git push
