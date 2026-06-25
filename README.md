@@ -25,7 +25,7 @@ Spent the last 8 years shipping backend systems — banking apps for 4M+ users, 
 - co-founded [Affan Tech](https://www.instagram.com/affan.tech) to build what the dev community actually needs.
 - contributed to [ollama](https://github.com/ollama/ollama) and [stdlib-js](https://github.com/stdlib-js) among others [all contributions](https://github.com/faisalaffan/foss-contribution)
 - want build company profile ? curated web [templates for businesses](https://template-demo.faisalaffan.com)
-- AI-assisted, not AI-dependent, [look my approach](/PARADIGM.md) as engineer
+- AI-assisted, not AI-dependent, [look my approach](/APPROACH.md) as engineer
 
 _More at [case studies](https://news.faisalaffan.com/news/explore?lang=en) · [product showcase](https://showcase.faisalaffan.com) · [resume](https://drive.google.com/file/d/1yLUpNSbImfpF2PSSgadDmTa6ph_38e9S/view?usp=sharing)_
 
