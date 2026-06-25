@@ -12,9 +12,8 @@ Spent the last 8 years shipping backend systems — banking apps for 4M+ users, 
 
 Here are some things I've built and contributed to:
 
-- Built enterprise banking systems serving **4.1M+ users**:
-  - [Sitepat](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en) — customer-facing banking apps
-  - [Tepati](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) — loan management system
+- Lastly Built enterprise banking systems to serving **4.1M+ users**: [Sitepat](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en) (customer-facing banking apps), [Tepati](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) (loan management system)
+- And many professional [project](/PROJECTS.md)
 - Built mining & enterprise platforms:
   - [HPU Digital Mining Platform](https://news.faisalaffan.com/news/product/harmoni-panca-utama-en?category=Product&lang=en) — fleet, fuel monitoring, HSE for coal mining
   - [IAG Cybera360](https://news.faisalaffan.com/news/product/iag-cybera360-en?category=Product&lang=en) — cybersecurity platform
