@@ -1,8 +1,8 @@
 <div align="center">
 
-> **4,100,000 users. one backend. zero downtime.**
+> **4,1M users. one sole backend. zero downtime.**
 
-# oh hey, i'm faisal. 👋
+<h3>oh hey, i'm faisal. <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25"></h3>
 
 </div>
 
@@ -16,23 +16,14 @@
 
 Spent the last 8 years shipping backend systems — banking apps for 4M+ users, IoT pipelines at 50K events/sec, and lately a full ERP from scratch (yes, AI Driven solo founder). Currently a Senior Backend Dev at BTPN Syariah and building [RAGI-INSTANT](https://github.com/faisalaffan/ragi-instant), a RAG system for Indonesian Banking Regulatory.
 
-Here are some things I've built and contributed to:
+### A Bit About Me
 
-- Lastly Built enterprise banking systems to serving **4.1M+ users**: [Sitepat](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en) (customer-facing banking apps), [Tepati](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) (loan management system)
-- And many professional [project here](/PROJECTS.md)
+- Lastly Built enterprise [banking](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) systems to serving **[4.1M+ users](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en)** and many professional [project here](/PROJECTS.md)
 - Creator of SaaS products: [fowcuzz](https://apps.apple.com/id/app/fowcuzz/id6758438790)
-- Creator of open source tools:
-  - [claudio](https://github.com/faisalaffan/claudio) — Anthropic SDK for Dart
-  - [testcast](https://github.com/faisalaffan/testcast) — Playwright scaffolding for TypeScript
-  - [geostack](https://github.com/faisalaffan/geostack) — geospatial REST API boilerplate
-  - [chainnusa](https://github.com/faisalaffan/chainnusa) — on-chain intelligence for SEA
+- Creator of cool [open source tools](/OPEN_SOURCE_TOOLS.md)
 - Technical writing on [Dev.to](https://dev.to/faisalaffan) and [Medium](https://medium.com/@faisal-affan)
 - Co-founder of [Affan Tech](https://www.instagram.com/affan.tech) — building tools for the dev community
 - All OSS contributions: [foss-contribution](https://github.com/faisalaffan/foss-contribution)
-
----
-
-### A Bit About Me
 
 - ☕ Coffee-powered, especially during late-night debugging
 - 🏔️ Based in Bogor — close to the mountains, far from the traffic
@@ -40,6 +31,5 @@ Here are some things I've built and contributed to:
 - 🛠️ I like building things that actually solve real problems, not just demos
 - 📝 I write about what I learn and ship
 
----
 
 _More at [case studies](https://news.faisalaffan.com/news/explore?lang=en) · [product showcase](https://showcase.faisalaffan.com) · [resume](https://drive.google.com/file/d/1yLUpNSbImfpF2PSSgadDmTa6ph_38e9S/view?usp=sharing)_
