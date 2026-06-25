@@ -21,15 +21,16 @@ Spent the last 8 years shipping backend systems — banking apps for 4M+ users, 
 - Lastly Built enterprise [banking](https://news.faisalaffan.com/news/product/tepati-en?category=Product&lang=en) systems to serving **[4.1M+ users](https://news.faisalaffan.com/news/product/sitepat-en?category=Product&lang=en)** and many professional [project here](/PROJECTS.md)
 - Creator of SaaS products: [fowcuzz](https://apps.apple.com/id/app/fowcuzz/id6758438790)
 - Creator of cool [open source tools](/OPEN_SOURCE_TOOLS.md)
-- Technical writing on [Dev.to](https://dev.to/faisalaffan) and [Medium](https://medium.com/@faisal-affan)
-- Co-founder of [Affan Tech](https://www.instagram.com/affan.tech) — building tools for the dev community
-- All OSS contributions: [foss-contribution](https://github.com/faisalaffan/foss-contribution)
+- I write about the [decisions](https://news.faisalaffan.com) behind the code.
+- co-founded [Affan Tech](https://www.instagram.com/affan.tech) to build what the dev community actually needs.
+- contributed to [ollama](https://github.com/ollama/ollama) and [stdlib-js](https://github.com/stdlib-js) among others [→ all contributions](https://github.com/faisalaffan/foss-contribution)
 
-- ☕ Coffee-powered, especially during late-night debugging
+
+<!-- - ☕ Coffee-powered, especially during late-night debugging
 - 🏔️ Based in Bogor — close to the mountains, far from the traffic
 - 🤖 AI-assisted, not AI-dependent — I read every diff and own every deploy
 - 🛠️ I like building things that actually solve real problems, not just demos
-- 📝 I write about what I learn and ship
+- 📝 I write about what I learn and ship -->
 
 
 _More at [case studies](https://news.faisalaffan.com/news/explore?lang=en) · [product showcase](https://showcase.faisalaffan.com) · [resume](https://drive.google.com/file/d/1yLUpNSbImfpF2PSSgadDmTa6ph_38e9S/view?usp=sharing)_
