@@ -20,6 +20,7 @@
 - [ATS](https://drive.google.com/file/d/1C8cXpm0OEHYJV-z4fzpqpd428qacm_5I/view?usp=sharing)
 - [Resume](https://drive.google.com/file/d/1tLL7QqNA3Ua9KcNHqyVPlzgfis5_3VgC/view?usp=sharing)
 - [Cover Letter](https://drive.google.com/file/d/1nkLLOs7sn7uaXOM0s-JxD_ZqD8N0dVbY/view?usp=sharing)
+- [Apps Showcase](https://showcase.faisalaffan.com)
 
 ## GitHub
 
@@ -42,11 +43,6 @@
 - https://play.google.com/store/search?q=faisalaffan — Google Play Store apps
 - https://apps.apple.com/us/developer/faisal-affan/id1780296673 — Apple App Store apps
 - https://apps.microsoft.com/search/publisher?name=Faisal%20Affan — Microsoft Store apps
-
-## Project Demos
-
-- https://play.google.com/store/apps/details?id=com.btpns.individualfinancing&hl=id — BTPNS mobile banking app
-- https://gedoong.faisalaffan.com/ — Gedoong — property/boarding house management app
 
 ## Certifications
 

@@ -40,7 +40,7 @@
 |------|------|-------|
 | 2022–now | Senior Backend Developer | BTPN Syariah |
 | 2020–2022 | Software Engineer | Kano Solution |
-| 2018 | Internship | EACIIT |
+| 2018 | Apparenticeship Part Time | EACIIT |
 
 ---
 
