@@ -4,7 +4,7 @@
   Tenant isolation, RBAC scope, and cost-center modeling have to be
   designed into the schema, not bolted on later. I've seen both sides of
   this — first retrofitting multi-tenancy into BTPN Syariah's banking
-  platform serving 4.1 million users, then building MSTORE and PAYSALES
+  platform serving 4.1 million users, then building SaaS products
   from scratch with multi-tenancy as a first-class constraint. The
   difference is night and day. Retrofitting into a single-tenant
   codebase is where most SaaS products quietly die — usually around the
