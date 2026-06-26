@@ -1,7 +1,5 @@
 # All Useful Links
 
-> Sourced from `faisalaffan-web-v2/app/data/`
-
 ## Portfolio Pages
 
 | URL | Description |
@@ -20,18 +18,10 @@
 ## GitHub
 
 - https://github.com/faisalaffan — Main GitHub profile
-- https://github.com/faisalaffan/claudio — Dart library for interactive CLI
-- https://github.com/faisalaffan/feyshall-adk-labs — Agent Development Kit (ADK) experiments
-- https://github.com/ahmadrosid/tinyclaw/pull/4 — Contribution to tinyclaw
-- https://github.com/ollama/ollama/pull/16201 — Contribution to Ollama
-- https://github.com/stdlib-js/stdlib/pull/12246 — Contribution to stdlib-js
-- https://github.com/fern-api/fern/pull/16153 — Contribution to Fern API
-- https://github.com/rstacruz/cheatsheets/pull/2219 — Contribution to cheatsheets (rstacruz)
-- https://github.com/firstcontributions/first-contributions/pull/117480 — First contributions (practice PR)
+- https://github.com/faisalaffan/foss-contribution — My Open Source Contribution
 
 ## Package Registries
 
-- https://pub.dev/packages/claudio — Dart package `claudio` on pub.dev
 - https://pub.dev/publishers/faisalaffan.com/packages — pub.dev publisher profile
 - https://www.npmjs.com/~faisalaffan — npm profile
 - https://pypi.org/user/callmefeyshall/ — PyPI profile (Python)
