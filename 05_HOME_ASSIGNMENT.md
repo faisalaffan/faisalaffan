@@ -16,7 +16,7 @@ Every take-home assignment done — all public. Leaning toward system design and
 - [nurture360](https://github.com/faisalaffan/nurture360) — landing page for omnichannel customer engagement platform.
 
 ### Mobile
-- To Be Listed...
+- [banksatu](https://github.com/faisalaffan/banksatu) — one banking platform, built for everyone — officers and customers alike.
 
 ### AI Engineer
 - [ragi-instant](https://github.com/faisalaffan/ragi-instant) — RAG System that implement simple and fast, like ragi to make Indonesian bread.
