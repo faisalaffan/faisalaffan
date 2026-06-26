@@ -20,7 +20,7 @@ Spent the last <!-- YEARS_START -->8 years<!-- YEARS_END --> shipping backend sy
 - Creator of many [SaaS products](02_SAAS_PROJECT.md)
 - Creator of cool [open source tools](03_OPEN_SOURCE_TOOLS.md)
 - I write about the [decisions](https://news.faisalaffan.com) behind the code. you also can see me [here](08_WRITING_CONTENT.md)
-- I create cheatsheet, tips and trick about [speed up programming](09_EBOOK_AND_TIPS)
+- I create cheatsheet, tips and trick about [speed up programming](09_EBOOK_AND_TIPS.md)
 - co-founded [Affan Tech](https://www.instagram.com/affan.tech) to build what the dev community actually needs.
 - contributed to [ollama](https://github.com/ollama/ollama) and [stdlib-js](https://github.com/stdlib-js) among others, [all contributions](https://github.com/faisalaffan/foss-contribution)
 - want build company profile ? curated web [templates for businesses](https://template-demo.faisalaffan.com)
