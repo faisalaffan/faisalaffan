@@ -1,4 +1,4 @@
-### What I'm Writing & Explain
+### What I'm Writing & Record
 
 - Technical articles on [Dev.to](https://dev.to/faisalaffan) and [Medium](https://medium.com/@faisal-affan)
 - Product case studies on [news.faisalaffan.com](https://news.faisalaffan.com/news/explore?lang=en)
