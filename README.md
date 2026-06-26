@@ -26,7 +26,7 @@ Spent the last <!-- YEARS_START -->8 years<!-- YEARS_END --> shipping backend sy
 - contributed to [ollama](https://github.com/ollama/ollama) and [stdlib-js](https://github.com/stdlib-js) among others, [all contributions](https://github.com/faisalaffan/foss-contribution)
 - want build company profile ? curated web [templates for businesses](https://template-demo.faisalaffan.com)
 - AI-assisted, not AI-dependent, [look my approach](/APPROACH.md) as engineer
-- Don't let your interview become just another one of my templates. 😆 i've ground through [3962 leetcode questions](https://github.com/faisalaffan/faisalaffan-leetcode) with [full explanations](https://faisalaffan.gitbook.io/leetcode). that said, i lean more toward [system design](https://faisalaffan.gitbook.io/design-system) and take-home assignments and every one i've done is public.
+- Don't let your interview become just another one of my templates. 😆 i've ground through [3962 leetcode questions](https://github.com/faisalaffan/faisalaffan-leetcode) with [full explanations](https://faisalaffan.gitbook.io/leetcode). that said, i lean more toward [system design](https://faisalaffan.gitbook.io/design-system) and [take-home assignments](/HOME_ASSIGNMENT.md) and every one i've done is public.
 
 _More at [case studies](https://news.faisalaffan.com/news/explore?lang=en) · [product showcase](https://showcase.faisalaffan.com) · [resume](https://drive.google.com/file/d/1yLUpNSbImfpF2PSSgadDmTa6ph_38e9S/view?usp=sharing) · [etc](/LINK.md)_ 
 
