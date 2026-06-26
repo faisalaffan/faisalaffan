@@ -12,7 +12,7 @@
 <a href="mailto:faisallionel@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Spent the last <!-- YEARS_START -->8 years<!-- YEARS_END --> shipping backend systems — banking apps for 4M+ users, IoT pipelines at 50K events/sec, and lately a full ERP from scratch (yes, AI Driven solo founder). Currently a Senior Backend Dev at BTPN Syariah and building [RAGI-INSTANT](https://github.com/faisalaffan/ragi-instant), a RAG system for Indonesian Banking Regulatory.
+Spent the last <!-- YEARS_START -->8 years<!-- YEARS_END --> shipping backend systems — banking apps for 4M+ users, IoT pipelines at 50K events/sec, and lately a full ERP from scratch (yes, AI Driven solo founder). Currently a Senior Backend Dev at BTPN Syariah and building [RAGI-INSTANT](https://github.com/faisalaffan/ragi-instant), a RAG system for Indonesian Banking Regulatory. [See full experience →](10_EXPERIENCE.md)
 
 ### A Bit About Me
 
