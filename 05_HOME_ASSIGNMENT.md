@@ -31,7 +31,7 @@ Every take-home assignment done — all public. Leaning toward system design and
 - To Be Listed...
 
 ### WEB3 / Blockchain
-- To Be Listed...
+- [chainnusa](https://github.com/faisalaffan/chainnusa) — Southeast Asia's on-chain intelligence platform.
 
 ### GeoSpatial
 - [geostack](https://github.com/faisalaffan/geostack) — starter boilerplate for geospatial REST APIs with Node.js, PostgreSQL/PostGIS, and Docker.
