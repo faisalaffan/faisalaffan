@@ -2,7 +2,7 @@
 
 > **4,1M users. one sole backend. zero downtime.**
 
-<h3>that was me 😄. hey, i'm faisal <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25"></h3>
+<h3>that was me 😄. hey, i'm faisal <img src="assets/hand.gif" width="25"></h3>
 
 </div>
 
@@ -26,9 +26,9 @@ Spent the last <!-- YEARS_START -->8 years<!-- YEARS_END --> shipping backend sy
 - want build company profile ? curated web [templates for businesses](https://template-demo.faisalaffan.com)
 - AI-assisted, not AI-dependent, [look my approach](04_APPROACH.md) as engineer
 - battle-tested [stack across banking, IoT, mining, SaaS](07_TECH.md) — from greenfield to 4M+ users
-- Don't let your interview become just another one of my templates. 😆 i've ground through [3962 leetcode questions](https://github.com/faisalaffan/faisalaffan-leetcode) with [full explanations](https://faisalaffan.gitbook.io/leetcode). that said, i lean more toward [system design](https://faisalaffan.gitbook.io/design-system) and [take-home assignments](05_HOME_ASSIGNMENT.md) and every one i've done is public.
+- Don't let your interview become just another one of my templates 😆. i've ground through [3962 leetcode questions](https://github.com/faisalaffan/faisalaffan-leetcode) with [full explanations](https://faisalaffan.gitbook.io/leetcode). that said, i lean more toward [system design](https://faisalaffan.gitbook.io/design-system) and [take-home assignments](05_HOME_ASSIGNMENT.md) and every one i've done is public.
 
-_More at [case studies](https://news.faisalaffan.com/news/explore?lang=en) · [product showcase](https://showcase.faisalaffan.com) · [resume](https://drive.google.com/file/d/1yLUpNSbImfpF2PSSgadDmTa6ph_38e9S/view?usp=sharing) · [etc](06_LINK.md)_ 
+_More at [case studies](https://news.faisalaffan.com/news/explore?lang=en&category=Product) · [product showcase](https://showcase.faisalaffan.com) · [ats](https://drive.google.com/file/d/1C8cXpm0OEHYJV-z4fzpqpd428qacm_5I/view?usp=sharing) · [resume](https://drive.google.com/file/d/1tLL7QqNA3Ua9KcNHqyVPlzgfis5_3VgC/view?usp=sharing) · [etc](06_LINK.md)_ 
 
 
 ### Let's talk

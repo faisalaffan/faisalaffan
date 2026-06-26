@@ -15,6 +15,12 @@
 | https://faisalaffan.com/elsewhere | "Elsewhere" — links to other platforms |
 | https://faisalaffan.com/#contact | Contact (anchor on homepage) |
 
+## Docs
+
+- [ATS](https://drive.google.com/file/d/1C8cXpm0OEHYJV-z4fzpqpd428qacm_5I/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1tLL7QqNA3Ua9KcNHqyVPlzgfis5_3VgC/view?usp=sharing)
+- [Cover Letter](https://drive.google.com/file/d/1nkLLOs7sn7uaXOM0s-JxD_ZqD8N0dVbY/view?usp=sharing)
+
 ## GitHub
 
 - https://github.com/faisalaffan — Main GitHub profile
